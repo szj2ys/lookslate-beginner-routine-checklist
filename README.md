@@ -4,6 +4,8 @@ A small, offline checklist published by Lookslate. Use it beside your makeup bag
 
 ## Use it
 
+Open the [checklist in your browser](https://szj2ys.github.io/lookslate-beginner-routine-checklist/), or download it for offline use:
+
 1. Download the project files and open `index.html` in a browser. No installation, server or internet connection is needed to use the downloaded checklist.
 2. Leave **Include optional eyeshadow** selected for nine steps, or clear it for eight.
 3. Check each step as you go. The count updates on the page.
